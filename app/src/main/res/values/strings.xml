@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyNewCompose</string>
+    <string name="tittle_error">Error</string>
+    <string name="try_again_later">Intente mas tarde</string>
+    <string name="record_attendance">Registrar Asistencia</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="enter_your_email">Ingresa tu email</string>
+    <string name="enter_your_password">Ingresa tu contraseña</string>
+    <string name="enter_your_credentials">Ingresa tus credenciales</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="forget_your_password">¿Olvidaste tu contraseña?</string>
+    <string name="assistants">Asistentes: 12</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm">Aceptar</string>
+    <string name="hello">Hola, Diego!</string>
+    <string name="attendance">Asistencia</string>
+    <string name="confirmation_record_attendance">¿Registrar la asistencia del dia Miercoles 15 de septiembre?</string>
+</resources>
